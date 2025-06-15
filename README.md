@@ -1,5 +1,4 @@
 # Analyse des commandes à risque Amazon – Modélisation et prédiction par Machine Learning
-![Page de garde - Mémoire](https://tse2.mm.bing.net/th?id=OIP.RW4mrDzlNTg10qxa9bF-1wHaFL&r=0&pid=Api)
 <p align="center">
   <img src="https://tse2.mm.bing.net/th?id=OIP.RW4mrDzlNTg10qxa9bF-1wHaFL&r=0&pid=Api" alt="Page de garde - Mémoire" width="600"/>
 </p>
