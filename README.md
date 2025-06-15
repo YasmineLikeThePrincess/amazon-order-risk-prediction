@@ -1,5 +1,5 @@
 # Analyse des commandes à risque Amazon – Modélisation et prédiction par Machine Learning
-![Page de garde - Mémoire](file:///Users/yasmine/Downloads/9dd327f0-96c8-4d73-8b83-f04b1c3a1a07.png)
+![Page de garde - Mémoire]([file:///Users/yasmine/Downloads/9dd327f0-96c8-4d73-8b83-f04b1c3a1a07.png](https://tse2.mm.bing.net/th?id=OIP.RW4mrDzlNTg10qxa9bF-1wHaFL&r=0&pid=Api))
 
 
 ## 📘 Contexte
