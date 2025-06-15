@@ -16,6 +16,11 @@ L’objectif est d’analyser les déterminants des commandes à risque sur Amaz
 - Optimiser les performances en réduisant les fausses alertes
 - Interpréter les résultats via des analyses visuelles et statistiques
 
+## 📂 Données
+
+Les données utilisées dans ce projet proviennent de Kaggle :  
+👉 [Amazon Order Dataset – Kaggle]([https://www.kaggle.com/datasets/nom-du-dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?resource=download))
+
   ## 📊 Technologies utilisées
 
 - Python (Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn)
